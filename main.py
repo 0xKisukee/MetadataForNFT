@@ -1,6 +1,5 @@
 import json
 import ast
-import random
 
 def idGen(num):
 	if num < 10:
